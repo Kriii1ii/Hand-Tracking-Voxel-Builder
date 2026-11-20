@@ -94,8 +94,4 @@ src/
 - **Jittery cursor** – use a plain background and keep your hand steady.
 - **Camera blocked** – allow camera permission in the browser; camera access requires `localhost` or HTTPS.
 
-## Known Issues
-
-- Mouse orbit/zoom (`OrbitControls`) is wired up but the 3D layer has `pointer-events: none`, so it does not currently respond to the mouse.
-- Grab/delete gestures are configured but not implemented.
 
